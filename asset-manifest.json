@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/anova-github-search/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/anova-github-search/static/js/main.3ec1e28c.chunk.js",
-    "main.js.map": "/anova-github-search/static/js/main.3ec1e28c.chunk.js.map",
+    "main.js": "/anova-github-search/static/js/main.87ee0363.chunk.js",
+    "main.js.map": "/anova-github-search/static/js/main.87ee0363.chunk.js.map",
     "runtime-main.js": "/anova-github-search/static/js/runtime-main.24aace0e.js",
     "runtime-main.js.map": "/anova-github-search/static/js/runtime-main.24aace0e.js.map",
-    "static/js/2.c7a6276d.chunk.js": "/anova-github-search/static/js/2.c7a6276d.chunk.js",
-    "static/js/2.c7a6276d.chunk.js.map": "/anova-github-search/static/js/2.c7a6276d.chunk.js.map",
+    "static/js/2.facfbb53.chunk.js": "/anova-github-search/static/js/2.facfbb53.chunk.js",
+    "static/js/2.facfbb53.chunk.js.map": "/anova-github-search/static/js/2.facfbb53.chunk.js.map",
     "static/js/3.e60db371.chunk.js": "/anova-github-search/static/js/3.e60db371.chunk.js",
     "static/js/3.e60db371.chunk.js.map": "/anova-github-search/static/js/3.e60db371.chunk.js.map",
     "index.html": "/anova-github-search/index.html",
     "static/css/main.6dea0f05.chunk.css.map": "/anova-github-search/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.c7a6276d.chunk.js.LICENSE.txt": "/anova-github-search/static/js/2.c7a6276d.chunk.js.LICENSE.txt"
+    "static/js/2.facfbb53.chunk.js.LICENSE.txt": "/anova-github-search/static/js/2.facfbb53.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.24aace0e.js",
-    "static/js/2.c7a6276d.chunk.js",
+    "static/js/2.facfbb53.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.3ec1e28c.chunk.js"
+    "static/js/main.87ee0363.chunk.js"
   ]
 }
