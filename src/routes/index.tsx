@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
+import { HashRouter as Router, Switch, Route } from 'react-router-dom'
 import { Grommet } from 'grommet'
 import { grommet } from 'grommet/themes'
 import { RequestProvider } from '@react-cmpt/react-request-hook'
